@@ -965,9 +965,6 @@ Daoyuan Chen, Yilun Huang, Zhijian Ma, Hesen Chen, Xuchen Pan, Ce Ge, Dawei Gao,
 **In-context Pretraining: Language Modeling Beyond Document Boundaries**
  Weijia Shi, Sewon Min, Maria Lomeli, Chunting Zhou, Margaret Li, Gergely Szilvasy, Rich James, Xi Victoria Lin, Noah A. Smith, Luke Zettlemoyer, Scott Yih, Mike Lewis. *ICLR 2024.* [[pdf](https://doi.org/10.48550/arXiv.2310.10638)]
 
-**Automatic Pruning of Fine-tuning Datasets for Transformer-based Language Models**
- Mohammadreza Tayaranian, Seyyed Hasan Mozafari, Brett H. Meyer, James J. Clark, Warren J. Gross. *CoLLAs 2024.* [[pdf](https://doi.org/10.48550/arXiv.2407.08887)]
-
 **Strategic Data Ordering: Enhancing Large Language Model Performance through Curriculum Learning**
  Jisu Kim, Juhwan Lee. *arXiv 2024.* [[pdf](https://doi.org/10.48550/arXiv.2405.07490)]
 
